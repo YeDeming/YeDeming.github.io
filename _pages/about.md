@@ -18,16 +18,19 @@ I am a 4th-year PhD student in the Department of Computer Science and Technology
 * <strong>Deming Ye</strong>, Yankai Lin, Yufei Huang, Maosong Sun, Zhiyuan Liu. TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference. <i>NAACL 2021. Long Paper.</i> [[pdf]](https://arxiv.org/abs/2105.11618) [[code]](https://github.com/thunlp/TR-BERT)
 
 
-* <strong>Deming Ye</strong>, Yankai Lin, Jiaju Du, Zhenghao Liu, Peng Li, Maosong Sun, Zhiyuan Liu}. Coreferential Reasoning Learning for Language Representation. <i>EMNLP 2020. Long Paper.</i> [[pdf]](https://arxiv.org/abs/2004.06870) [[code]](https://github.com/thunlp/CorefBERT)
+* Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, <strong>Deming Ye</strong>, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. <i>AI Open, 2021.</i> [[pdf]](https://arxiv.org/abs/2012.00413) [[code]](https://github.com/TsinghuaAI/CPM-Generate) [[homepage]](https://cpm.baai.ac.cn/)
+
+
+* <strong>Deming Ye</strong>, Yankai Lin, Jiaju Du, Zhenghao Liu, Peng Li, Maosong Sun, Zhiyuan Liu. Coreferential Reasoning Learning for Language Representation. <i>EMNLP 2020. Long Paper.</i> [[pdf]](https://arxiv.org/abs/2004.06870) [[code]](https://github.com/thunlp/CorefBERT)
 
 
 * Yuan Yao\*, <strong>Deming Ye</strong>\*, Peng Li, Xu Han, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, Lixin Huang, Jie Zhou, Maosong Sun.  DocRED: A Large-Scale Document-Level Relation Extraction Dataset. <i>ACL 2019. Long Paper.</i> [[pdf]](https://arxiv.org/abs/1906.06127) [[code]](https://github.com/thunlp/DocRED)
 
 
-* Xu Han, Tianyu Gao, Yuan Yao, <strong>Deming Ye</strong>, Zhiyuan Liu, Maosong Sun. Rethinking the form of latent states in image captioning. <i>EMNLP 2019. Demo Paper.</i> [[pdf]](https://arxiv.org/abs/1807.09958) [[code]](https://github.com/thunlp/OpenNRE)
+* Xu Han, Tianyu Gao, Yuan Yao, <strong>Deming Ye</strong>, Zhiyuan Liu, Maosong Sun. OpenNRE: An open and extensible toolkit for neural relation extraction. <i>EMNLP 2019. Demo Paper.</i> [[pdf]](https://arxiv.org/abs/1807.09958) [[code]](https://github.com/thunlp/OpenNRE)
 
 
-* Bo Dai\*, <strong>Deming Ye</strong>\*, Dahua Lin. OpenNRE: An open and extensible toolkit for neural relation extraction. <i>ECCV 2018. Long Paper.</i> [[pdf]](https://arxiv.org/abs/1807.09958) [[code]](https://github.com/doubledaibo/2dcaption_eccv2018)
+* Bo Dai\*, <strong>Deming Ye</strong>\*, Dahua Lin. Rethinking the form of latent states in image captioning. <i>ECCV 2018. Long Paper.</i> [[pdf]](https://arxiv.org/abs/1807.09958) [[code]](https://github.com/doubledaibo/2dcaption_eccv2018)
 
 
 * Xiaoying Bai, Mingjie Li, Dan Pei, Shanshan Li, <strong>Deming Ye</strong>. Continuous delivery of personalized assessment and feedback in agile software engineering projects. <i>ICSE 2018. Long Paper.</i> [[pdf]](https://arxiv.org/abs/1807.09958) [[code]](https://github.com/doubledaibo/2dcaption_eccv2018)
@@ -37,9 +40,6 @@ I am a 4th-year PhD student in the Department of Computer Science and Technology
 ## Preprint
 
 * <strong>Deming Ye</strong>, Yankai Lin, Maosong Sun. Pack Together: Entity and Relation Extraction with Levitated Marker. [[pdf]](https://arxiv.org/abs/2109.06067) [[code]](https://github.com/thunlp/PL-Marker) 
-
-
-* Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, <strong>Deming Ye</strong>, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. [[pdf]](https://arxiv.org/abs/2012.00413) [[code]](https://github.com/TsinghuaAI/CPM-Generate) [[homepage]](https://cpm.baai.ac.cn/)
 
 
 * <strong>Deming Ye</strong>, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, Maosong Sun. Multi-paragraph reasoning with knowledge-enhanced graph neural network. [[pdf]](https://arxiv.org/abs/1911.02170) 
