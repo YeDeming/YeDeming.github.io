@@ -55,6 +55,7 @@ THUTag:  A Package of Kephrase Extraction and Social Tag Suggetion. [[code]](htt
 ## Experiemnt
   - Sep. 2018 - Present: PhD Student in Computer Science and Technology, Tsinghua University, Beijing, China.
   - Sep. 2014 - 2018: Bachelor in Computer Science and Technology, Tsinghua University, Beijing, China.
+  - Sep. 2011 - 2014: Student in Sun Yat-sen Memorial Secondary School, Zhongshan, Guangdong, China.
 
 
 
