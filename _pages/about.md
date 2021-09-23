@@ -15,7 +15,7 @@ I am a 4th-year PhD student in the Department of Computer Science and Technology
 
 \* indicates equal contribution.
 
-* <strong>Deming Ye</strong>, Yankai Lin, Yufei Huang, Maosong Sun, Zhiyuan Liu. TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference. <i>NAACL 2021. Long Paper.</i> [[pdf]](https://arxiv.org/abs/2105.11618) [[code]](https://github.com/thunlp/TR-BERT)
+* <strong>Deming Ye</strong>, Yankai Lin, Yufei Huang, Maosong Sun. TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference. <i>NAACL 2021. Long Paper.</i> [[pdf]](https://arxiv.org/abs/2105.11618) [[code]](https://github.com/thunlp/TR-BERT)
 
 
 * Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, <strong>Deming Ye</strong>, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. <i>AI Open, 2021.</i> [[pdf]](https://arxiv.org/abs/2012.00413) [[code]](https://github.com/TsinghuaAI/CPM-Generate) [[homepage]](https://cpm.baai.ac.cn/)
