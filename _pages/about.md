@@ -15,6 +15,14 @@ I am a 4th-year PhD student in the Department of Computer Science and Technology
 
 \* indicates equal contribution.
 
+
+
+* <strong>Deming Ye</strong>, Yankai Lin, Peng Li, Maosong Sun. Packed Levitated Marker for Entity and Relation Extraction. <i>ACL 2022. Long Paper.</i>  [[pdf]](https://arxiv.org/abs/2109.06067) [[code]](https://github.com/thunlp/PL-Marker) 
+
+
+
+* <strong>Deming Ye</strong>, Yankai Lin, Peng Li, Maosong Sun, Zhiyuan Liu. A Simple but Effective Pluggable Entity Lookup Table for Pre-trained Language Models. <i>ACL 2022. Short Paper.</i>  [[pdf]](http://arxiv.org/abs/2202.13392) [[code]](https://github.com/thunlp/PELT) 
+
 * <strong>Deming Ye</strong>, Yankai Lin, Yufei Huang, Maosong Sun. TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference. <i>NAACL 2021. Long Paper.</i> [[pdf]](https://arxiv.org/abs/2105.11618) [[code]](https://github.com/thunlp/TR-BERT)
 
 
@@ -38,9 +46,6 @@ I am a 4th-year PhD student in the Department of Computer Science and Technology
 
 
 ## Preprint
-
-* <strong>Deming Ye</strong>, Yankai Lin, Maosong Sun. Pack Together: Entity and Relation Extraction with Levitated Marker. [[pdf]](https://arxiv.org/abs/2109.06067) [[code]](https://github.com/thunlp/PL-Marker) 
-
 
 * <strong>Deming Ye</strong>, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, Maosong Sun. Multi-paragraph reasoning with knowledge-enhanced graph neural network. [[pdf]](https://arxiv.org/abs/1911.02170) 
 
