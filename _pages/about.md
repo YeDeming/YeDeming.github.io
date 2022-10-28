@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year PhD student in the Department of Computer Science and Technology at Tsinghua University. I am supervised by Prof. [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). My research interests lie in Pre-trained Models for Natural Language Processing.
+I am a 5th-year PhD student in the Department of Computer Science and Technology at Tsinghua University. I am supervised by Prof. [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). My research interests lie in Pre-trained Models for Natural Language Processing.
 
 
 ## Publications
