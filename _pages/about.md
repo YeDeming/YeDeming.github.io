@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year PhD student in the Department of Computer Science and Technology at Tsinghua University. I am supervised by Prof. [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). My research interests lie in Pre-trained Models for Natural Language Processing.
+I am a PhD student in the Department of Computer Science and Technology at Tsinghua University. I am supervised by Prof. [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). My research interests lie in Pre-trained Models for Natural Language Processing.
 
 
 ## Publications
@@ -46,6 +46,9 @@ I am a 5th-year PhD student in the Department of Computer Science and Technology
 
 
 ## Preprint
+
+* <strong>Deming Ye</strong>, Yankai Lin, Zhengyan Zhang, Maosong Sun. UNTER: A Unified Knowledge Interface for Enhancing Pre-trained Language Models. [[pdf]](https://arxiv.org/abs/2305.01624) 
+
 
 * <strong>Deming Ye</strong>, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, Maosong Sun. Multi-paragraph reasoning with knowledge-enhanced graph neural network. [[pdf]](https://arxiv.org/abs/1911.02170) 
 
